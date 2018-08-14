@@ -8,3 +8,7 @@ Header
 Общее
 ---
 + [Круглая radiobutton](https://codepen.io/st-iv/pen/ZjprGp?editors=1100)
+
+Slick slider
+---
++ [Несколько строк](https://jsfiddle.net/en593gyd/15/)

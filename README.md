@@ -12,3 +12,4 @@ Header
 Slick slider
 ---
 + [Несколько строк](https://jsfiddle.net/en593gyd/15/)
++ [Счётчик слайдов](https://jsfiddle.net/rLLvvpcm/81/)

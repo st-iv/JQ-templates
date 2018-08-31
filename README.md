@@ -13,3 +13,11 @@ Slick slider
 ---
 + [Несколько строк](https://jsfiddle.net/en593gyd/15/)
 + [Счётчик слайдов](https://jsfiddle.net/rLLvvpcm/81/)
+
+Foundation
+---
++ [Текст parent ссылок вместо стандартного текста "Back"](https://gist.github.com/st-iv/a3e91f72c43933def54967dbd20084af)
+
+Формы
+---
++ [Изменить label после загрузки файла](https://gist.github.com/st-iv/b724e4f3374997abe63a66bd43e7f2f4)

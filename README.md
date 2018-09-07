@@ -8,6 +8,7 @@ Header
 Общее
 ---
 + [Круглая radiobutton](https://codepen.io/st-iv/pen/ZjprGp?editors=1100)
++ [Стрелка "Наверх"](https://codepen.io/st-iv/pen/zJEXra)
 
 Slick slider
 ---

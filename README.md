@@ -22,3 +22,4 @@ Foundation
 Формы
 ---
 + [Изменить label после загрузки файла](https://gist.github.com/st-iv/b724e4f3374997abe63a66bd43e7f2f4)
++ [Обработка формы AJAX плагином Jquery Validate](https://gist.github.com/st-iv/4c57d3b903369d9306b4502c801f030d)

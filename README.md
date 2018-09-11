@@ -9,6 +9,7 @@ Header
 ---
 + [Круглая radiobutton](https://codepen.io/st-iv/pen/ZjprGp?editors=1100)
 + [Стрелка "Наверх"](https://codepen.io/st-iv/pen/zJEXra)
++ [Идеальное центрирование на flexbox (но это не точно)](https://gist.github.com/st-iv/8f3f8f41b2d45ee7aa3d5968ccb68dcf)
 
 Slick slider
 ---

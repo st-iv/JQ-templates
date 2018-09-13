@@ -9,6 +9,7 @@ Header
 ---
 + [Круглая radiobutton](https://codepen.io/st-iv/pen/ZjprGp?editors=1100)
 + [Стрелка "Наверх"](https://codepen.io/st-iv/pen/zJEXra)
++ [Табы -> Аккордеон](https://codepen.io/st-iv/pen/aaGgJM?editors=1010)
 
 Slick slider
 ---

@@ -11,6 +11,7 @@ Header
 + [Стрелка "Наверх"](https://codepen.io/st-iv/pen/zJEXra)
 + [Табы -> Аккордеон](https://codepen.io/st-iv/pen/aaGgJM?editors=1010)
 + [Скошенный фон через псевдоэлемент](https://codepen.io/st-iv/pen/vzQbqe?editors=1100)
++ [Обратный border-radius](https://codepen.io/st-iv/pen/MqZKPr)
 
 Slick slider
 ---

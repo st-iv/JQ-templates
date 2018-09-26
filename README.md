@@ -12,6 +12,7 @@ Header
 + [Табы -> Аккордеон](https://codepen.io/st-iv/pen/aaGgJM?editors=1010)
 + [Скошенный фон через псевдоэлемент](https://codepen.io/st-iv/pen/vzQbqe?editors=1100)
 + [Обратный border-radius](https://codepen.io/st-iv/pen/MqZKPr)
++ [100% высота flex потомков](https://stackoverflow.com/questions/15381172/how-to-make-flexbox-children-100-height-of-their-parent)
 
 Slick slider
 ---

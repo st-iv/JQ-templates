@@ -1,9 +1,9 @@
-Header
+Меню
 ---
 + [Меню, изменяющее цвет при прокрутке](https://codepen.io/st-iv/pen/Lddrey)
 + [Адаптивное меню Bootstrap3](https://codepen.io/st-iv/pen/zWjjeb?editors=1011)
-+ [Плавная прокрутка к блокам страницы](https://gist.github.com/st-iv/f0487af6c7c2a442e481c2f234afb122)
 + [Липкое меню](https://codepen.io/codeams/pen/uljkp)
++ [Бургер меню](https://codepen.io/st-iv/pen/qYyGgP)
 
 Общее
 ---
@@ -13,6 +13,7 @@ Header
 + [Скошенный фон через псевдоэлемент](https://codepen.io/st-iv/pen/vzQbqe?editors=1100)
 + [Обратный border-radius](https://codepen.io/st-iv/pen/MqZKPr)
 + [100% высота flex потомков](https://stackoverflow.com/questions/15381172/how-to-make-flexbox-children-100-height-of-their-parent)
++ [Плавная прокрутка к блокам страницы](https://gist.github.com/st-iv/f0487af6c7c2a442e481c2f234afb122)
 
 Slick slider
 ---

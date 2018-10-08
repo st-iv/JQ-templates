@@ -21,8 +21,9 @@ Slick slider
 + [Несколько строк](https://jsfiddle.net/en593gyd/15/)
 + [Счётчик слайдов](https://jsfiddle.net/rLLvvpcm/81/)
 + [Навигация-ползунок](https://codepen.io/st-iv/pen/wYvzBM)
-+ [Progressbar у стрелки при клике](https://codepen.io/st-iv/pen/OBJRyV)
++ [Progressbar (счетчик всех слайдов) у стрелки при клике](https://codepen.io/st-iv/pen/OBJRyV)
 + [Линия-таймер до следующего слайда](https://codepen.io/st-iv/pen/jeOMBw)
++ [Окружность-таймер до следующего слайда](https://codepen.io/st-iv/pen/ReogRq)
 
 Foundation
 ---

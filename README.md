@@ -15,6 +15,7 @@
 + [100% высота flex потомков](https://stackoverflow.com/questions/15381172/how-to-make-flexbox-children-100-height-of-their-parent)
 + [Плавная прокрутка к блокам страницы](https://gist.github.com/st-iv/f0487af6c7c2a442e481c2f234afb122)
 + [range slider](https://codepen.io/st-iv/pen/OBbpdx)
++ [Анимация ступеньками](https://codepen.io/st-iv/pen/ZqeoQe)
 
 Slick slider
 ---

@@ -3,6 +3,7 @@
 + [Меню, изменяющее цвет при прокрутке](https://codepen.io/st-iv/pen/Lddrey)
 + [Адаптивное меню Bootstrap3](https://codepen.io/st-iv/pen/zWjjeb?editors=1011)
 + [Липкое меню](https://codepen.io/codeams/pen/uljkp)
++ [Липкое меню: скролл вниз - исчезает, вверх - появляется](https://codepen.io/st-iv/pen/VEWRbj)
 + [Бургер меню](https://codepen.io/st-iv/pen/qYyGgP)
 
 Общее

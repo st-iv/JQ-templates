@@ -17,6 +17,7 @@
 + [Плавная прокрутка к блокам страницы](https://gist.github.com/st-iv/f0487af6c7c2a442e481c2f234afb122)
 + [range slider](https://codepen.io/st-iv/pen/OBbpdx)
 + [Анимация ступеньками](https://codepen.io/st-iv/pen/ZqeoQe)
++ [Отмена цвета фона блока при hover. Без hover - оставить цвет](https://codepen.io/st-iv/pen/zmjEve)
 
 Slick slider
 ---

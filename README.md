@@ -19,6 +19,7 @@
 + [Анимация ступеньками](https://codepen.io/st-iv/pen/ZqeoQe)
 + [Отмена цвета фона блока при hover. Без hover - оставить цвет](https://codepen.io/st-iv/pen/zmjEve)
 + [Вертикальное hover-меню(табы)](https://codepen.io/st-iv/pen/zmjEve)
++ [Активные состояния пунктов меню при переходе по страницам](https://gist.github.com/st-iv/76dfd3395e6fc5f6a3e31160779464df)
 
 Slick slider
 ---
